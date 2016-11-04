@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: Chance Eakin
+subtitle: Chance's Blog
+description: A Place where I Write down all things, whether they're coding related or food related. 
+author: Chance Eakin
+language: English
+timezone: UTC−6:00
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-strata
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
