@@ -46,7 +46,9 @@ There's a lot of extensible inspiration online, and there are a lot of awesome p
 #### CLI
 Hexo uses a CLI to spin up blog posts. More information is available in their [docs](https://hexo.io/docs/). Check it out, and spin one up for yourself!
 
-### On the Docket
+### On the Docket/In Closing
+
+Feel free to check out this project's source at my [GitHub](https://www.github.com/chanceakin). See something that's terrible or misattributed, send me an issue and I'll fix it! 
 
 This weekend, I'm headed to the farm. Next week, I'll be talking about something I'm learning or working on, most likely: React, Mocha, or Sass (SCSS). Maybe about some BBQ, too. I am in Austin, after all.3
 
