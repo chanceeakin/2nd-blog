@@ -1,0 +1,49 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Portfolio: http://www.chanceeakin.io
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+subtitle_main: <h2>Software Developer. Opera Singer. Academic. Amateur Pitmaster. 6th Generation Texan.</h2>
+
+# Theme Secondary subtitle
+susbtitle_secondary: I like to build things, make things, and sing. This is a blog for my thoughts and my journey. It involves code and smoked meat. 
+
+# Footer About Section
+about_footer: Follow me at any of the links around here! Questions or comments? Tweet me!
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail: 
+
+# Show Dates for posts and pages
+show_dates: true
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: chanceeakinme
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+twitter_url: https://twitter.com/chanceeakin
+instagram_url: https://www.instagram.com/chanceeakin
+github_url: https://github.com/chanceeakin
+email_url: mailto:chance.eakin+1@gmail.com
+rss_url: http://www.chanceeakin.me/atom.xml
