@@ -5,7 +5,7 @@
 # Site
 title: Chance Eakin, Blog
 subtitle: Chance's Blog
-description: A Place where I Write down all things, whether they're coding related or food related. 
+description: A Place where I Write down all things, whether they're coding related or food related.
 author: Chance Eakin
 language: en
 timezone: America/Chicago
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
