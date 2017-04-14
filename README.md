@@ -1,8 +1,6 @@
 # 2nd-blog
-Keep making bad blog builds. Found one I think that I like. Gonna run with it.
+The Repo where My blog lives!
 
-## To Do List
-	Contact Form
-	add gravatar back
-	formspree or something
-	
+
+## Things I haven't done yet and probably won't because I'm lazy
+add gravatar back
